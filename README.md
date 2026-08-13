@@ -1,6 +1,6 @@
-# Hi 👋 I'm Georgia
+# Opa! Georgia por aqui 🚀
 
-**Front-End Developer & AI Enthusiast**
+Desenvolvedora Python | Automação de Processos (RPA & Power Automate) 
 
 ---
 
