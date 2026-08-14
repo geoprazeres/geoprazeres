@@ -19,7 +19,7 @@
 
 <!-- Ícones Quadrados: Apenas Front-End, IA, Data Science e Dev Tools -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,pytorch,tensorflow,figma,git,github,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,pytorch,figma,git,github,vscode,linux,notion" />
 </a>
 
 ---
