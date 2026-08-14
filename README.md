@@ -1,10 +1,11 @@
-# Opa! Georgia por aqui 🚀
 
-Desenvolvedora Python | Automação de Processos (RPA & Power Automate) 
+# Opa! Georgia por aqui 🚀
+**Front-End Developer & AI Enthusiast** ⚡  
+*Criando interfaces incríveis e explorando o universo da Inteligência Artificial.*
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/georgia-prazeres" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" 
@@ -14,7 +15,7 @@ Desenvolvedora Python | Automação de Processos (RPA & Power Automate)
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tecnologias & Ferramentas
 
 <!-- Ícones Quadrados: Apenas Front-End, IA, Data Science e Dev Tools -->
 <a href="https://skillicons.dev">
@@ -23,10 +24,10 @@ Desenvolvedora Python | Automação de Processos (RPA & Power Automate)
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geoprazeres&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoprazeres&theme=dark&hide_border=true" height="150" alt="Streak Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoprazeres&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geoprazeres&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Linguagens Mais Usadas" />
 </div>
